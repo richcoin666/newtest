@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/greet.py": {
+      "runtime": "python3.9"
+    }
+  }
+}
